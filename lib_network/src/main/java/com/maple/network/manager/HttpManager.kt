@@ -1,8 +1,7 @@
 package com.maple.network.manager
 
 import android.util.Log
-import com.maple.common.helper.AppHelper
-import com.maple.common.utils.NetworkUtil
+
 import com.maple.network.error.ERROR
 import com.maple.network.error.NoNetWorkException
 import okhttp3.Interceptor
